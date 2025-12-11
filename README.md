@@ -1,5 +1,5 @@
 # Partisan and Nonpartisan Models of Constitution-Making: A Comparative Case Study of Brazil and Chile
-Welcome to the replication materials for the paper “Partisan and Nonpartisan Models of Constitution-Making: A Comparative Case Study of Brazil and Chile” (https://doi.org/10.1177/1866802X251397954).
+Welcome to the replication materials for the paper: Lima, R. de C., & Medeiros, D. (2025). "Partisan and Nonpartisan Models of Constitution-Making: A Comparative Case Study of Brazil and Chile". Journal of Politics in Latin America. https://doi.org/10.1177/1866802X251397954.
 
 This repository contains the R scripts, Stata do-file, and all associated datasets required to reproduce the figures and tables presented in the article.
 
